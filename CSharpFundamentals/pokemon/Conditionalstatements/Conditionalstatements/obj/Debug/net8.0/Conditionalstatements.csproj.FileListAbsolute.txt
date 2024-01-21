@@ -1,0 +1,14 @@
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Conditionalstatements\Conditionalstatements\bin\Debug\net8.0\Conditionalstatements.exe
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Conditionalstatements\Conditionalstatements\bin\Debug\net8.0\Conditionalstatements.deps.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Conditionalstatements\Conditionalstatements\bin\Debug\net8.0\Conditionalstatements.runtimeconfig.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Conditionalstatements\Conditionalstatements\bin\Debug\net8.0\Conditionalstatements.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Conditionalstatements\Conditionalstatements\bin\Debug\net8.0\Conditionalstatements.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Conditionalstatements\Conditionalstatements\obj\Debug\net8.0\Conditionalstatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Conditionalstatements\Conditionalstatements\obj\Debug\net8.0\Conditionalstatements.AssemblyInfoInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Conditionalstatements\Conditionalstatements\obj\Debug\net8.0\Conditionalstatements.AssemblyInfo.cs
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Conditionalstatements\Conditionalstatements\obj\Debug\net8.0\Conditionalstatements.csproj.CoreCompileInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Conditionalstatements\Conditionalstatements\obj\Debug\net8.0\Conditionalstatements.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Conditionalstatements\Conditionalstatements\obj\Debug\net8.0\refint\Conditionalstatements.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Conditionalstatements\Conditionalstatements\obj\Debug\net8.0\Conditionalstatements.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Conditionalstatements\Conditionalstatements\obj\Debug\net8.0\Conditionalstatements.genruntimeconfig.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Conditionalstatements\Conditionalstatements\obj\Debug\net8.0\ref\Conditionalstatements.dll

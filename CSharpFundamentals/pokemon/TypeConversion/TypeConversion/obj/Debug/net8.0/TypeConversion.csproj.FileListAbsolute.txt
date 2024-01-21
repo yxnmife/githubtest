@@ -1,0 +1,14 @@
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.AssemblyInfoInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.AssemblyInfo.cs
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\TypeConversion\TypeConversion\bin\Debug\net8.0\TypeConversion.exe
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\TypeConversion\TypeConversion\bin\Debug\net8.0\TypeConversion.deps.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\TypeConversion\TypeConversion\bin\Debug\net8.0\TypeConversion.runtimeconfig.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\TypeConversion\TypeConversion\bin\Debug\net8.0\TypeConversion.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\TypeConversion\TypeConversion\bin\Debug\net8.0\TypeConversion.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\TypeConversion\TypeConversion\obj\Debug\net8.0\refint\TypeConversion.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.genruntimeconfig.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\TypeConversion\TypeConversion\obj\Debug\net8.0\ref\TypeConversion.dll

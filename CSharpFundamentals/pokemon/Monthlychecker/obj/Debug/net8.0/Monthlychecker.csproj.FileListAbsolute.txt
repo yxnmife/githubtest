@@ -1,0 +1,14 @@
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Monthlychecker\bin\Debug\net8.0\Monthlychecker.exe
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Monthlychecker\bin\Debug\net8.0\Monthlychecker.deps.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Monthlychecker\bin\Debug\net8.0\Monthlychecker.runtimeconfig.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Monthlychecker\bin\Debug\net8.0\Monthlychecker.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Monthlychecker\bin\Debug\net8.0\Monthlychecker.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Monthlychecker\obj\Debug\net8.0\Monthlychecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Monthlychecker\obj\Debug\net8.0\Monthlychecker.AssemblyInfoInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Monthlychecker\obj\Debug\net8.0\Monthlychecker.AssemblyInfo.cs
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Monthlychecker\obj\Debug\net8.0\Monthlychecker.csproj.CoreCompileInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Monthlychecker\obj\Debug\net8.0\Monthlychecker.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Monthlychecker\obj\Debug\net8.0\refint\Monthlychecker.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Monthlychecker\obj\Debug\net8.0\Monthlychecker.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Monthlychecker\obj\Debug\net8.0\Monthlychecker.genruntimeconfig.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Monthlychecker\obj\Debug\net8.0\ref\Monthlychecker.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CodewMoshExercise3/1.0.0": {
+        "runtime": {
+          "CodewMoshExercise3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodewMoshExercise3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

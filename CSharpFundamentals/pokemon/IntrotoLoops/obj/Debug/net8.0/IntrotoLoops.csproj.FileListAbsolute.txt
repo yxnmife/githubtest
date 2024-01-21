@@ -1,0 +1,14 @@
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\IntrotoLoops\obj\Debug\net8.0\IntrotoLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\IntrotoLoops\obj\Debug\net8.0\IntrotoLoops.AssemblyInfoInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\IntrotoLoops\obj\Debug\net8.0\IntrotoLoops.AssemblyInfo.cs
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\IntrotoLoops\obj\Debug\net8.0\IntrotoLoops.csproj.CoreCompileInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\IntrotoLoops\bin\Debug\net8.0\IntrotoLoops.exe
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\IntrotoLoops\bin\Debug\net8.0\IntrotoLoops.deps.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\IntrotoLoops\bin\Debug\net8.0\IntrotoLoops.runtimeconfig.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\IntrotoLoops\bin\Debug\net8.0\IntrotoLoops.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\IntrotoLoops\bin\Debug\net8.0\IntrotoLoops.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\IntrotoLoops\obj\Debug\net8.0\IntrotoLoops.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\IntrotoLoops\obj\Debug\net8.0\refint\IntrotoLoops.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\IntrotoLoops\obj\Debug\net8.0\IntrotoLoops.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\IntrotoLoops\obj\Debug\net8.0\IntrotoLoops.genruntimeconfig.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\IntrotoLoops\obj\Debug\net8.0\ref\IntrotoLoops.dll

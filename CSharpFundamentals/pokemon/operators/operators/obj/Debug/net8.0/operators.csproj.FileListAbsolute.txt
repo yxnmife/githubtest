@@ -1,0 +1,14 @@
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\operators\operators\bin\Debug\net8.0\operators.exe
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\operators\operators\bin\Debug\net8.0\operators.deps.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\operators\operators\bin\Debug\net8.0\operators.runtimeconfig.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\operators\operators\bin\Debug\net8.0\operators.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\operators\operators\bin\Debug\net8.0\operators.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\operators\operators\obj\Debug\net8.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\operators\operators\obj\Debug\net8.0\operators.AssemblyInfoInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\operators\operators\obj\Debug\net8.0\operators.AssemblyInfo.cs
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\operators\operators\obj\Debug\net8.0\operators.csproj.CoreCompileInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\operators\operators\obj\Debug\net8.0\operators.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\operators\operators\obj\Debug\net8.0\refint\operators.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\operators\operators\obj\Debug\net8.0\operators.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\operators\operators\obj\Debug\net8.0\operators.genruntimeconfig.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\operators\operators\obj\Debug\net8.0\ref\operators.dll

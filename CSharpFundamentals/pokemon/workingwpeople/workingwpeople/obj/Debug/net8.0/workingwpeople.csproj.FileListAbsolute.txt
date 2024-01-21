@@ -1,0 +1,14 @@
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\workingwpeople\workingwpeople\bin\Debug\net8.0\workingwpeople.exe
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\workingwpeople\workingwpeople\bin\Debug\net8.0\workingwpeople.deps.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\workingwpeople\workingwpeople\bin\Debug\net8.0\workingwpeople.runtimeconfig.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\workingwpeople\workingwpeople\bin\Debug\net8.0\workingwpeople.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\workingwpeople\workingwpeople\bin\Debug\net8.0\workingwpeople.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\workingwpeople\workingwpeople\obj\Debug\net8.0\workingwpeople.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\workingwpeople\workingwpeople\obj\Debug\net8.0\workingwpeople.AssemblyInfoInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\workingwpeople\workingwpeople\obj\Debug\net8.0\workingwpeople.AssemblyInfo.cs
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\workingwpeople\workingwpeople\obj\Debug\net8.0\workingwpeople.csproj.CoreCompileInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\workingwpeople\workingwpeople\obj\Debug\net8.0\workingwpeople.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\workingwpeople\workingwpeople\obj\Debug\net8.0\refint\workingwpeople.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\workingwpeople\workingwpeople\obj\Debug\net8.0\workingwpeople.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\workingwpeople\workingwpeople\obj\Debug\net8.0\workingwpeople.genruntimeconfig.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\workingwpeople\workingwpeople\obj\Debug\net8.0\ref\workingwpeople.dll

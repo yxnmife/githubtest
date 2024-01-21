@@ -1,0 +1,14 @@
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwEnums\WorkingwEnums\bin\Debug\net8.0\WorkingwEnums.exe
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwEnums\WorkingwEnums\bin\Debug\net8.0\WorkingwEnums.deps.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwEnums\WorkingwEnums\bin\Debug\net8.0\WorkingwEnums.runtimeconfig.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwEnums\WorkingwEnums\bin\Debug\net8.0\WorkingwEnums.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwEnums\WorkingwEnums\bin\Debug\net8.0\WorkingwEnums.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwEnums\WorkingwEnums\obj\Debug\net8.0\WorkingwEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwEnums\WorkingwEnums\obj\Debug\net8.0\WorkingwEnums.AssemblyInfoInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwEnums\WorkingwEnums\obj\Debug\net8.0\WorkingwEnums.AssemblyInfo.cs
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwEnums\WorkingwEnums\obj\Debug\net8.0\WorkingwEnums.csproj.CoreCompileInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwEnums\WorkingwEnums\obj\Debug\net8.0\WorkingwEnums.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwEnums\WorkingwEnums\obj\Debug\net8.0\refint\WorkingwEnums.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwEnums\WorkingwEnums\obj\Debug\net8.0\WorkingwEnums.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwEnums\WorkingwEnums\obj\Debug\net8.0\WorkingwEnums.genruntimeconfig.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwEnums\WorkingwEnums\obj\Debug\net8.0\ref\WorkingwEnums.dll

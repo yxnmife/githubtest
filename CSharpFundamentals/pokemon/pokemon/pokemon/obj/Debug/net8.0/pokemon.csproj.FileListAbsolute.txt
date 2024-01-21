@@ -1,0 +1,14 @@
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\pokemon\pokemon\bin\Debug\net8.0\pokemon.exe
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\pokemon\pokemon\bin\Debug\net8.0\pokemon.deps.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\pokemon\pokemon\bin\Debug\net8.0\pokemon.runtimeconfig.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\pokemon\pokemon\bin\Debug\net8.0\pokemon.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\pokemon\pokemon\bin\Debug\net8.0\pokemon.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\pokemon\pokemon\obj\Debug\net8.0\pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\pokemon\pokemon\obj\Debug\net8.0\pokemon.AssemblyInfoInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\pokemon\pokemon\obj\Debug\net8.0\pokemon.AssemblyInfo.cs
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\pokemon\pokemon\obj\Debug\net8.0\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\pokemon\pokemon\obj\Debug\net8.0\pokemon.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\pokemon\pokemon\obj\Debug\net8.0\refint\pokemon.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\pokemon\pokemon\obj\Debug\net8.0\pokemon.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\pokemon\pokemon\obj\Debug\net8.0\pokemon.genruntimeconfig.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\pokemon\pokemon\obj\Debug\net8.0\ref\pokemon.dll

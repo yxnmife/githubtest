@@ -1,0 +1,14 @@
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwTimeSpan\bin\Debug\net8.0\WorkingwTimeSpan.exe
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwTimeSpan\bin\Debug\net8.0\WorkingwTimeSpan.deps.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwTimeSpan\bin\Debug\net8.0\WorkingwTimeSpan.runtimeconfig.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwTimeSpan\bin\Debug\net8.0\WorkingwTimeSpan.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwTimeSpan\bin\Debug\net8.0\WorkingwTimeSpan.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwTimeSpan\obj\Debug\net8.0\WorkingwTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwTimeSpan\obj\Debug\net8.0\WorkingwTimeSpan.AssemblyInfoInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwTimeSpan\obj\Debug\net8.0\WorkingwTimeSpan.AssemblyInfo.cs
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwTimeSpan\obj\Debug\net8.0\WorkingwTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwTimeSpan\obj\Debug\net8.0\WorkingwTimeSpan.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwTimeSpan\obj\Debug\net8.0\refint\WorkingwTimeSpan.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwTimeSpan\obj\Debug\net8.0\WorkingwTimeSpan.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwTimeSpan\obj\Debug\net8.0\WorkingwTimeSpan.genruntimeconfig.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwTimeSpan\obj\Debug\net8.0\ref\WorkingwTimeSpan.dll

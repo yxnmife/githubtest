@@ -1,0 +1,14 @@
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExcercise2\bin\Debug\net8.0\CodewMoshExcercise2.exe
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExcercise2\bin\Debug\net8.0\CodewMoshExcercise2.deps.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExcercise2\bin\Debug\net8.0\CodewMoshExcercise2.runtimeconfig.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExcercise2\bin\Debug\net8.0\CodewMoshExcercise2.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExcercise2\bin\Debug\net8.0\CodewMoshExcercise2.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExcercise2\obj\Debug\net8.0\CodewMoshExcercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExcercise2\obj\Debug\net8.0\CodewMoshExcercise2.AssemblyInfoInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExcercise2\obj\Debug\net8.0\CodewMoshExcercise2.AssemblyInfo.cs
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExcercise2\obj\Debug\net8.0\CodewMoshExcercise2.csproj.CoreCompileInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExcercise2\obj\Debug\net8.0\CodewMoshExcercise2.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExcercise2\obj\Debug\net8.0\refint\CodewMoshExcercise2.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExcercise2\obj\Debug\net8.0\CodewMoshExcercise2.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExcercise2\obj\Debug\net8.0\CodewMoshExcercise2.genruntimeconfig.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExcercise2\obj\Debug\net8.0\ref\CodewMoshExcercise2.dll

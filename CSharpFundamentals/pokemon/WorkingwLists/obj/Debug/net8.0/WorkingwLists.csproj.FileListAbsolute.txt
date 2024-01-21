@@ -1,0 +1,14 @@
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwLists\bin\Debug\net8.0\WorkingwLists.exe
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwLists\bin\Debug\net8.0\WorkingwLists.deps.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwLists\bin\Debug\net8.0\WorkingwLists.runtimeconfig.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwLists\bin\Debug\net8.0\WorkingwLists.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwLists\bin\Debug\net8.0\WorkingwLists.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwLists\obj\Debug\net8.0\WorkingwLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwLists\obj\Debug\net8.0\WorkingwLists.AssemblyInfoInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwLists\obj\Debug\net8.0\WorkingwLists.AssemblyInfo.cs
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwLists\obj\Debug\net8.0\WorkingwLists.csproj.CoreCompileInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwLists\obj\Debug\net8.0\WorkingwLists.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwLists\obj\Debug\net8.0\refint\WorkingwLists.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwLists\obj\Debug\net8.0\WorkingwLists.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwLists\obj\Debug\net8.0\WorkingwLists.genruntimeconfig.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwLists\obj\Debug\net8.0\ref\WorkingwLists.dll

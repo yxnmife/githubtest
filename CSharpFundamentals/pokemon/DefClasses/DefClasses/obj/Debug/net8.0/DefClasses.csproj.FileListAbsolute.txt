@@ -1,0 +1,14 @@
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\DefClasses\DefClasses\obj\Debug\net8.0\DefClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\DefClasses\DefClasses\obj\Debug\net8.0\DefClasses.AssemblyInfoInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\DefClasses\DefClasses\obj\Debug\net8.0\DefClasses.AssemblyInfo.cs
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\DefClasses\DefClasses\obj\Debug\net8.0\DefClasses.csproj.CoreCompileInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\DefClasses\DefClasses\bin\Debug\net8.0\DefClasses.exe
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\DefClasses\DefClasses\bin\Debug\net8.0\DefClasses.deps.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\DefClasses\DefClasses\bin\Debug\net8.0\DefClasses.runtimeconfig.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\DefClasses\DefClasses\bin\Debug\net8.0\DefClasses.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\DefClasses\DefClasses\bin\Debug\net8.0\DefClasses.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\DefClasses\DefClasses\obj\Debug\net8.0\DefClasses.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\DefClasses\DefClasses\obj\Debug\net8.0\refint\DefClasses.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\DefClasses\DefClasses\obj\Debug\net8.0\DefClasses.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\DefClasses\DefClasses\obj\Debug\net8.0\DefClasses.genruntimeconfig.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\DefClasses\DefClasses\obj\Debug\net8.0\ref\DefClasses.dll

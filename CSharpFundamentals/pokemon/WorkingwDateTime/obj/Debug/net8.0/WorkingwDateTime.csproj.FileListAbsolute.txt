@@ -1,0 +1,14 @@
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwDateTime\bin\Debug\net8.0\WorkingwDateTime.exe
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwDateTime\bin\Debug\net8.0\WorkingwDateTime.deps.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwDateTime\bin\Debug\net8.0\WorkingwDateTime.runtimeconfig.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwDateTime\bin\Debug\net8.0\WorkingwDateTime.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwDateTime\bin\Debug\net8.0\WorkingwDateTime.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwDateTime\obj\Debug\net8.0\WorkingwDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwDateTime\obj\Debug\net8.0\WorkingwDateTime.AssemblyInfoInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwDateTime\obj\Debug\net8.0\WorkingwDateTime.AssemblyInfo.cs
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwDateTime\obj\Debug\net8.0\WorkingwDateTime.csproj.CoreCompileInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwDateTime\obj\Debug\net8.0\WorkingwDateTime.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwDateTime\obj\Debug\net8.0\refint\WorkingwDateTime.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwDateTime\obj\Debug\net8.0\WorkingwDateTime.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwDateTime\obj\Debug\net8.0\WorkingwDateTime.genruntimeconfig.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\WorkingwDateTime\obj\Debug\net8.0\ref\WorkingwDateTime.dll

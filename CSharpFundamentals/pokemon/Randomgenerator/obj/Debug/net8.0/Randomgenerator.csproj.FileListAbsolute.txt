@@ -1,0 +1,14 @@
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Randomgenerator\bin\Debug\net8.0\Randomgenerator.exe
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Randomgenerator\bin\Debug\net8.0\Randomgenerator.deps.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Randomgenerator\bin\Debug\net8.0\Randomgenerator.runtimeconfig.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Randomgenerator\bin\Debug\net8.0\Randomgenerator.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Randomgenerator\bin\Debug\net8.0\Randomgenerator.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Randomgenerator\obj\Debug\net8.0\Randomgenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Randomgenerator\obj\Debug\net8.0\Randomgenerator.AssemblyInfoInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Randomgenerator\obj\Debug\net8.0\Randomgenerator.AssemblyInfo.cs
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Randomgenerator\obj\Debug\net8.0\Randomgenerator.csproj.CoreCompileInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Randomgenerator\obj\Debug\net8.0\Randomgenerator.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Randomgenerator\obj\Debug\net8.0\refint\Randomgenerator.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Randomgenerator\obj\Debug\net8.0\Randomgenerator.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Randomgenerator\obj\Debug\net8.0\Randomgenerator.genruntimeconfig.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\Randomgenerator\obj\Debug\net8.0\ref\Randomgenerator.dll

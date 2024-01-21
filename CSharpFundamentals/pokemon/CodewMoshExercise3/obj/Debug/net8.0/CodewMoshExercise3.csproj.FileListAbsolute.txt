@@ -1,0 +1,14 @@
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise3\bin\Debug\net8.0\CodewMoshExercise3.exe
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise3\bin\Debug\net8.0\CodewMoshExercise3.deps.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise3\bin\Debug\net8.0\CodewMoshExercise3.runtimeconfig.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise3\bin\Debug\net8.0\CodewMoshExercise3.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise3\bin\Debug\net8.0\CodewMoshExercise3.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise3\obj\Debug\net8.0\CodewMoshExercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise3\obj\Debug\net8.0\CodewMoshExercise3.AssemblyInfoInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise3\obj\Debug\net8.0\CodewMoshExercise3.AssemblyInfo.cs
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise3\obj\Debug\net8.0\CodewMoshExercise3.csproj.CoreCompileInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise3\obj\Debug\net8.0\CodewMoshExercise3.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise3\obj\Debug\net8.0\refint\CodewMoshExercise3.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise3\obj\Debug\net8.0\CodewMoshExercise3.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise3\obj\Debug\net8.0\CodewMoshExercise3.genruntimeconfig.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise3\obj\Debug\net8.0\ref\CodewMoshExercise3.dll

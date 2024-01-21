@@ -1,0 +1,14 @@
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\STRINGS\bin\Debug\net8.0\STRINGS.exe
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\STRINGS\bin\Debug\net8.0\STRINGS.deps.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\STRINGS\bin\Debug\net8.0\STRINGS.runtimeconfig.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\STRINGS\bin\Debug\net8.0\STRINGS.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\STRINGS\bin\Debug\net8.0\STRINGS.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\STRINGS\obj\Debug\net8.0\STRINGS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\STRINGS\obj\Debug\net8.0\STRINGS.AssemblyInfoInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\STRINGS\obj\Debug\net8.0\STRINGS.AssemblyInfo.cs
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\STRINGS\obj\Debug\net8.0\STRINGS.csproj.CoreCompileInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\STRINGS\obj\Debug\net8.0\STRINGS.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\STRINGS\obj\Debug\net8.0\refint\STRINGS.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\STRINGS\obj\Debug\net8.0\STRINGS.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\STRINGS\obj\Debug\net8.0\STRINGS.genruntimeconfig.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\STRINGS\obj\Debug\net8.0\ref\STRINGS.dll

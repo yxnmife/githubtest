@@ -1,0 +1,15 @@
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise4\bin\Debug\net8.0\CodewMoshExercise4.exe
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise4\bin\Debug\net8.0\CodewMoshExercise4.deps.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise4\bin\Debug\net8.0\CodewMoshExercise4.runtimeconfig.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise4\bin\Debug\net8.0\CodewMoshExercise4.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise4\bin\Debug\net8.0\CodewMoshExercise4.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise4\obj\Debug\net8.0\CodewMoshExercise4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise4\obj\Debug\net8.0\CodewMoshExercise4.AssemblyInfoInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise4\obj\Debug\net8.0\CodewMoshExercise4.AssemblyInfo.cs
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise4\obj\Debug\net8.0\CodewMoshExercise4.csproj.CoreCompileInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise4\obj\Debug\net8.0\CodewMoshExercise4.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise4\obj\Debug\net8.0\refint\CodewMoshExercise4.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise4\obj\Debug\net8.0\CodewMoshExercise4.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise4\obj\Debug\net8.0\CodewMoshExercise4.genruntimeconfig.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise4\obj\Debug\net8.0\ref\CodewMoshExercise4.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\CodewMoshExercise4\obj\Debug\net8.0\CodewMoshExercise4.sourcelink.json

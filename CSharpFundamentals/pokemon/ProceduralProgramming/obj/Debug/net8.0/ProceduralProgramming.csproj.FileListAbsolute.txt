@@ -1,0 +1,15 @@
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\ProceduralProgramming\obj\Debug\net8.0\ProceduralProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\ProceduralProgramming\obj\Debug\net8.0\ProceduralProgramming.AssemblyInfoInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\ProceduralProgramming\obj\Debug\net8.0\ProceduralProgramming.AssemblyInfo.cs
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\ProceduralProgramming\obj\Debug\net8.0\ProceduralProgramming.csproj.CoreCompileInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\ProceduralProgramming\obj\Debug\net8.0\ProceduralProgramming.sourcelink.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\ProceduralProgramming\bin\Debug\net8.0\ProceduralProgramming.exe
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\ProceduralProgramming\bin\Debug\net8.0\ProceduralProgramming.deps.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\ProceduralProgramming\bin\Debug\net8.0\ProceduralProgramming.runtimeconfig.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\ProceduralProgramming\bin\Debug\net8.0\ProceduralProgramming.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\ProceduralProgramming\bin\Debug\net8.0\ProceduralProgramming.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\ProceduralProgramming\obj\Debug\net8.0\ProceduralProgramming.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\ProceduralProgramming\obj\Debug\net8.0\refint\ProceduralProgramming.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\ProceduralProgramming\obj\Debug\net8.0\ProceduralProgramming.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\ProceduralProgramming\obj\Debug\net8.0\ProceduralProgramming.genruntimeconfig.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\ProceduralProgramming\obj\Debug\net8.0\ref\ProceduralProgramming.dll
