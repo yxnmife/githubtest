@@ -1,0 +1,14 @@
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\KishiTask\bin\Debug\net8.0\KishiTask.exe
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\KishiTask\bin\Debug\net8.0\KishiTask.deps.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\KishiTask\bin\Debug\net8.0\KishiTask.runtimeconfig.json
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\KishiTask\bin\Debug\net8.0\KishiTask.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\KishiTask\bin\Debug\net8.0\KishiTask.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\KishiTask\obj\Debug\net8.0\KishiTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\KishiTask\obj\Debug\net8.0\KishiTask.AssemblyInfoInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\KishiTask\obj\Debug\net8.0\KishiTask.AssemblyInfo.cs
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\KishiTask\obj\Debug\net8.0\KishiTask.csproj.CoreCompileInputs.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\KishiTask\obj\Debug\net8.0\KishiTask.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\KishiTask\obj\Debug\net8.0\refint\KishiTask.dll
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\KishiTask\obj\Debug\net8.0\KishiTask.pdb
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\KishiTask\obj\Debug\net8.0\KishiTask.genruntimeconfig.cache
+C:\Users\oluwayanmife.ayeni\Documents\Projects\CSharpFundamentals\pokemon\KishiTask\obj\Debug\net8.0\ref\KishiTask.dll
